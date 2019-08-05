@@ -4,6 +4,8 @@ Magento 2 plugin for remove parent category from subcategory URL.
 
 https://bender.kr.ua/howto-remove-parent-category-from-url-magento-2/
 
+![howto-remove-parent-category-from-url-magento-2](https://bender.kr.ua//content/images/2019/08/howto-remove-parent-category-from-url-magento-2-2.png)
+
 ***
 
 ## Installation
